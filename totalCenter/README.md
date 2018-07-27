@@ -5,3 +5,4 @@
 3. Add a div with the "aperture.svg" image and an h3 with some text inside of it
 4. Use the flexbox model to center the contents of div horizontally and vertically
    - *Note: the height might be tricky. You can set height relative to a percentage of the view window: `height: 100vh`*
+ 

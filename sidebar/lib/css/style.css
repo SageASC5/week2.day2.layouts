@@ -5,15 +5,20 @@ body{
 /* END OF PREMADE */
 
 .main_container{
-
+    display: flex;
+    height: 100%;
 }
-
+ 
 .sidebar{
-
+    width: 30%;
+    flex-shrink: 0;
+    background-image:url("https://lh3.googleusercontent.com/NDIr4U0qYprdmp5ebkLZVc9azH1RP8l6egB2NQ47GQkf153yt2hUdkeDQ3ort8RQ2Y0_cg=s106");
+    background-size: 100%
+    
 }
 
 .sidebar img{
-
+    width: 72px
 }
 
 .scrolling_content{

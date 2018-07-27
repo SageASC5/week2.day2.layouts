@@ -1,0 +1,23 @@
+
+
+.center_content{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+}
+
+body {
+    background-image: url(shoes.jpg);
+}
+
+h3 {
+    font-size: 35px;
+}
+
+img {
+    height: 72px
+}
+
+body {
+    margin: 0;
+}
